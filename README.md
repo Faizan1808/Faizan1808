@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # 💫 About Me:
 💫 I’m currently learning MERN Stack<br><br>💬 Ask me about Python, Django<br><br><br>📫 How to reach me faiz63440@gmail.com
