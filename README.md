@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-💫 I’m currently learning MERN Stack<br><br>💬 Ask me about Python, Django<br><br><br>📫 How to reach me faiz63440@gmail.com
+💫 I’m currently learning MERN Stack<br><br>💬 Ask me about Python, Django, HTML, CSS, JS, ReactJS && NodeJS<br><br><br>📫 How to reach me faiz63440@gmail.com
 
 
 ## 🌐 Socials:
